@@ -1,0 +1,11 @@
+/* TEAM */
+Company: NEOASSUR
+Site: https://www.neo-assur.fr
+Contact: contact [at] neo-assur.fr
+Location: France
+
+/* SITE */
+Language: French (fr-FR)
+Doctype: HTML5
+Standards: HTML5, CSS3, JSON-LD, Schema.org
+Components: React 19, TanStack Start, Tailwind CSS

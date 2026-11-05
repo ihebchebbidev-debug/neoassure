@@ -1,0 +1,6 @@
+Contact: mailto:security@neo-assur.fr
+Contact: mailto:contact@neo-assur.fr
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: fr, en
+Canonical: https://www.neo-assur.fr/.well-known/security.txt
+Policy: https://www.neo-assur.fr/mentions-legales

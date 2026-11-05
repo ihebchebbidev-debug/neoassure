@@ -1,0 +1,16 @@
+{
+  "name": "NEOASSUR — Assurance & Mutuelle santé",
+  "short_name": "NEOASSUR",
+  "description": "Courtier français en mutuelle santé, assurance emprunteur et prévoyance. Devis gratuit en 2 minutes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2481B1",
+  "lang": "fr-FR",
+  "dir": "ltr",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
